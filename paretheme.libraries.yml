@@ -1,0 +1,10 @@
+global-styling:
+  version: 1.x
+  css:
+    component:
+      css/components/header.css: {}
+      css/components/page-title.css: {}
+    theme:
+      css/style.css: {}
+  js:
+    js/script.js: {}

@@ -1,0 +1,16 @@
+/**
+ * @file
+ * Visual styles for PAReview.net's page-title component.
+ */
+
+ .page-title {
+    font-size: 2em;
+    line-height: 1em;
+
+  }
+  .region-header .page-title {
+    color: whitesmoke;
+    /* -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black; */
+  }
